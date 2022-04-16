@@ -1,0 +1,58 @@
+    1  path
+    2  $path
+    3  echo $path
+    4  echo $PATH
+    5  $CURSO
+    6  ls $CURSO
+    7  vim
+    8  printenv
+    9  printenv | grep=
+   10  printenv | grep =
+   11  cd /d/Cursos/Full-Stack/
+   12  ls
+   13  mkdir Story
+   14  cd Story/
+   15  ls
+   16  touch chapter1.txt
+   17  vim chapter1.txt 
+   18  ls
+   19  cat chapter1.txt 
+   20  git init
+   21  ls
+   22  ls -a
+   23  pwd
+   24  git status
+   25  git add chapter1.txt 
+   26  git status
+   27  git commit -m "Mi primer comit"
+   28  git log
+   29  touch chapter2.txt chapter3.txt
+   30  vim chapter2.txt 
+   31  vim chapter3.txt 
+   32  git status
+   33  git add *
+   34  git status
+   35  git commit -m "Complete chapter 2 and 3"
+   36  git log
+   37  cls
+   38  git log
+   39  git status
+   40  git --version
+   41  git remove chapter1.txt
+   42  git --help
+   43  ls
+   44  vim chapter3.txt 
+   45  cat chapter3.txt 
+   46  git status
+   47  git diff chapter3.txt
+   48  git checkout chapter3.txt
+   49  git status
+   50  git log
+   51  git status
+   52  git remote add origin https://github.com/jkjafs01/Story.git
+   53  git branch -M main
+   54  git --help
+   55  git push -u origin main
+   56  history
+   57  history commands.txt
+   58  history >> commands.txt
